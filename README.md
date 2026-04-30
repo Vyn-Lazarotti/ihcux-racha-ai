@@ -16,3 +16,4 @@ Este protótipo de baixa fideliade feito no Miro possui 5 telas principais:
 3. Adicionar Gasto: Interface de formulário para inserir valor, descrição e pagantes.
 4. Câmera / Scanner: Interface de como o usuário interage para ler uma nota fiscal.
 5. Extrato de Dívidas: Tela focada em quem deve quanto para quem, com botão de "Pagar".
+6. Confirmação de Pagamento: Tela de feedback após uma transação ser liquidada.
